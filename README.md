@@ -1,5 +1,7 @@
-<h1 align="center"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a7fcd56d-6e35-461f-8d74-045d89aac75d" />
- Salaries Analysis | Python (EDA)</h1>
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  Salaries Analysis | Python (EDA)
+</h1>
 
 <p align="center">
   Exploratory Data Analysis (EDA) of Employee Salaries using Python & Pandas
