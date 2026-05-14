@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-EDA-blue?style=for-the-badge&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-success?style=for-the-badge&logo=pandas">
-  <img src="https://img.shields.io/badge/Data%20Science-Insights-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Insights-orange?style=for-the-badge">
 </p>
 
 <hr>
