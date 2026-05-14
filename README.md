@@ -1,4 +1,4 @@
-<h1 align="center"><img width="40" height="40" alt="python" src="https://github.com/user-attachments/assets/1d7c59fc-242e-4609-8909-ae1509efefb8" /> Salaries Analysis | Python (EDA)</h1>
+<h1 align="center"><img width="30" height="30" alt="python" src="https://github.com/user-attachments/assets/1d7c59fc-242e-4609-8909-ae1509efefb8" /> Salaries Analysis | Python (EDA)</h1>
 
 <p align="center">
   Exploratory Data Analysis (EDA) of Employee Salaries using Python & Pandas
