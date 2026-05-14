@@ -1,5 +1,4 @@
-<h1 align="center"><img width="1024" height="1056" alt="Gemini_Generated_Image_vo9vonvo9vonvo9v" src="https://github.com/user-attachments/assets/9c7173d0-737a-48ba-afe1-6f87c98c0dd4" />
- Salaries Analysis | Python (EDA)</h1>
+<h1 align="center"><a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a> Salaries Analysis | Python (EDA)</h1>
 
 <p align="center">
   Exploratory Data Analysis (EDA) of Employee Salaries using Python & Pandas
@@ -8,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-EDA-blue?style=for-the-badge&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-success?style=for-the-badge&logo=pandas">
-  <img src="https://img.shields.io/badge/Data%20Analysis-EDA-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Science-Insights-orange?style=for-the-badge">
 </p>
 
 <hr>
