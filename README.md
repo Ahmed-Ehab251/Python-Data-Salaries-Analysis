@@ -1,4 +1,5 @@
-<h1 align="center">🐍 Salaries Analysis | Python (EDA)</h1>
+<h1 align="center"><img width="1024" height="1056" alt="Gemini_Generated_Image_vo9vonvo9vonvo9v" src="https://github.com/user-attachments/assets/9c7173d0-737a-48ba-afe1-6f87c98c0dd4" />
+ Salaries Analysis | Python (EDA)</h1>
 
 <p align="center">
   Exploratory Data Analysis (EDA) of Employee Salaries using Python & Pandas
