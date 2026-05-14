@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a> Salaries Analysis | Python (EDA)</h1>
+<h1 align="center"><img width="512" height="512" alt="python" src="https://github.com/user-attachments/assets/1d7c59fc-242e-4609-8909-ae1509efefb8" /> Salaries Analysis | Python (EDA)</h1>
 
 <p align="center">
   Exploratory Data Analysis (EDA) of Employee Salaries using Python & Pandas
@@ -129,7 +129,8 @@ The goal is to extract insights about salaries, job titles, overtime pay, and em
 
 <p>
 This project demonstrates how Python can be used to explore and analyze large-scale employee salary data to extract meaningful business insights.
-</p>
+</p><img width="512" height="512" alt="python" src="https://github.com/user-attachments/assets/075e96de-2b7a-4b16-a066-b57eb83649b9" />
+
 
 <hr>
 
